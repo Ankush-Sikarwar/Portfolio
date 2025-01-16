@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Number Plate Detection",
+    "imageSrc": "projects/Number.png",
+    "description": "Developed an advanced computer vision algorithm for accurate, efficient license plate detection, benefiting traffic enforcement, tolling, surveillance, and parking systems.",
+    "skills": ["Machine Learning", "Computer Vision", "Deep Learning"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Ankush-Sikarwar/Number-Plate-Detection"
+  },
+  {
+    "title": "Facial Emotion Recognition using GAN",
+    "imageSrc": "projects/face.png",
+    "description": "Trained models to classify emotions from facial expressions, using GANs to generate diverse images, enhancing accuracy and recognizing emotions.",
+    "skills": ["Deep Learning", "GAN"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Ankush-Sikarwar/Facial-Emotion-Recognition-using-GAN"
+  },
+  {
+    "title": "Flight Booking System",
+    "imageSrc": "projects/flight.png",
+    "description": "The Flight Booking System simplifies flight bookings for travelers and streamlines administrative tasks, providing efficiency for all stakeholders.",
+    "skills": [ "JS", "Bootstrap","Django","SQL Lite"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Ankush-Sikarwar/Flight-Booking-System"
+  }
+]

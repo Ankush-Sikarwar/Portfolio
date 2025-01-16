@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Machine Learning Intern",
+    "organisation": "Computer Application Dept. NITT",
+    "startDate": "Sept, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": ["Title : Number Plate Detecion", "Identified vehicle licence plate and extracting the characters therein.","Resulting in a 40% increase in accuracy and a 25% reduction in processing time."],
+    "imageSrc": "history/nitt.png"
+  },
+  {
+    "role": "Web Development Intern",
+    "organisation": "CodSoft",
+    "startDate": "Sept, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": ["Acquired practical experience in developing and designing responsive websites, utilizing frontend technologies to create dynamic and interactive web pages.", "Focused on optimizing website performance, improving user interfaces, and enhancing overall user experience through effective design and functionality improvements to meet client and user needs."],
+    "imageSrc": "history/codsoft.png"
+  }
+]
